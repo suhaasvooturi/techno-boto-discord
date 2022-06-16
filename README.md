@@ -1,4 +1,4 @@
-# techno-boto-discord
+# SYSTEM BOT 
 
 This is a simple moderation bot that can be added to your own discord server.
 
